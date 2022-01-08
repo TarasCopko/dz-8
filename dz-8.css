@@ -1,0 +1,83 @@
+li{
+    list-style: none;    
+}
+
+
+.line {
+    width: 60px;
+    height: 4px;
+    background: #F38181;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu-list{
+    display: flex;
+    align-items: center;
+}
+.menu-item{
+    margin-right: 55px;
+}
+
+.menu-item:last-child{
+    margin-right: 0;
+}
+.menu-link{
+    color: cornflowerblue;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.menu-link-active{
+    color: #F38181;
+    border-bottom: 3px solid #F38181;
+    padding-bottom: 10px;  
+}
+.team-content{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
